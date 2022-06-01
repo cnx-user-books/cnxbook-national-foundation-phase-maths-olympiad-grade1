@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>National Foundation Phase Maths Olympaid - Grade1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33457</md:content-id>
+  <md:title>National Foundation Phase Maths Olympaid - Grade1</md:title>
+  <md:abstract>A pilot paper of the National Foundations Phase Mathematics Olympiad for Grade 1</md:abstract>
+  <md:uuid>670c0e6b-0c8b-445a-ba3d-73207dbd07c6</md:uuid>
+</metadata>
+<content>
+    <section id="id9520445">
+      <title>INSTITUTE FOR ADVANCEMENT OF MATHEMATICS AND SCIENCE (IAMS) NATIONAL FOUNDATION PHASE MATHEMATICS OLYMPIAD </title>
+      <figure id="id9607478">
+        <media id="id9607478_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1.jpg" id="id9607478__onlineimage" height="247" width="246"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id12976344">
+      <title>GRADE ONE - PILOT PAPER QUESTION BOOKLET </title>
+      <para id="id11195687">
+        <emphasis>DURATION: 1 HOUR 15 MINUTES TIME: 08:30-09:45 MARKS: 20</emphasis>
+      </para>
+      <para id="id15246990">
+        <emphasis>NAME OF LEARNER:______________________________________ </emphasis>
+      </para>
+      <para id="id12956267">
+        <emphasis>NAME OF SCHOOL:_______________________________________ </emphasis>
+      </para>
+    </section>
+    <section id="id9405732">
+      <title>INSTRUCTIONS TO LEARNERS:</title>
+      <list id="id12828887" list-type="enumerated" number-style="arabic">
+        <item>You are expected to answer 15 questions.</item>
+        <item>These are multiple choice questions. Circle the correct answer.</item>
+        <item>Use blank pages for working. Circle the answer after you have done the working.</item>
+        <item>You are not allowed to use the calculator.</item>
+        <item>Read the question carefully before answering. Don’t rush.</item>
+        <item>Your teacher will read the question to you.</item>
+        <item>First 10 questions – 1 mark each.</item>
+        <item>Questions 11-20: 2 marks each.</item>
+      </list>
+      <para id="id10401860">
+        <emphasis>ENJOY THE OLYMPIAD</emphasis>
+      </para>
+    </section>
+    <section id="id9974101">
+      <title>TEST QUESTIONS</title>
+      <exercise id="id12046927">
+        <problem id="oo-id6379999">
+          <para id="id7125558">Count the number of circles in this arrangement.<figure id="id7125560"><media id="id7125560_media" alt=""><image mime-type="image/jpg" src="../../media/graphics2.jpg" id="id7125560__onlineimage" height="88" width="290"/></media></figure>(A) 9  (B) 10  (C) 11</para>
+        </problem>
+      </exercise>
+      <exercise id="id5680320">
+        <problem id="oo-id8236886">
+          <para id="id4136532">Which number is the largest? 45; 54; 51 (A) 54  (B) 51  (C) 45</para>
+        </problem>
+      </exercise>
+      <exercise id="id7140562">
+        <problem id="oo-id11695581">
+          <para id="id13064266">Which number is out of order?24; 22; 26; 28 (A) 22  (B) 26  (C) 28</para>
+        </problem>
+      </exercise>
+      <exercise id="id11177232">
+        <problem id="oo-id6556596">
+          <para id="id7139520">Give the value of <emphasis>Φ</emphasis> in this addition problem.</para>
+        </problem>
+      </exercise>
+      <table id="id6495189" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>4</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>+</entry>
+              <entry>2</entry>
+              <entry>
+                <emphasis>Φ</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>=</entry>
+              <entry>7</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <exercise id="id9699610">
+        <problem id="oo-id5169699">
+          <para id="id7660302">(A) 5  (B) 6  (C)  7</para>
+        </problem>
+      </exercise>
+      <exercise id="id10037736">
+        <problem id="oo-id7100056">
+          <para id="id12470126">Give the next number in this pretty pattern(adding 3) 9; 12; 15;……(A) 18 (B) 17 (C) 16</para>
+        </problem>
+      </exercise>
+      <exercise id="id5578326">
+        <problem id="oo-id7697282">
+          <para id="id12188451">Find the value of <emphasis>Φ</emphasis> in 24 + 6 = 20 + <emphasis>Φ</emphasis></para>
+        </problem>
+      </exercise>
+      <exercise id="id6349352">
+        <problem id="oo-id12045462">
+          <para id="id9522230">Look at this pretty square: A coin <emphasis>Φ </emphasis>was placed at 7. It was moved two(2) places to the left; one(1) place down and one(1) place to the right. On which numbered square is the coin ? (A) 9  (B) 10  (C) 11</para>
+        </problem>
+      </exercise>
+      <table id="id9823983" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry><emphasis>Φ</emphasis>7</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>13</entry>
+              <entry>14</entry>
+              <entry>15</entry>
+              <entry>16</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <exercise id="id10214119">
+        <problem id="oo-id13032887">
+          <para id="id13533989">How many blocks are there in this stack ? <figure id="id13533991"><media id="id13533991_media" alt=""><image mime-type="image/jpg" src="../../media/graphics3.jpg" id="id13533991__onlineimage" height="127" width="127"/></media></figure>(A)  6  (B) 7  (C) 8</para>
+        </problem>
+      </exercise>
+      <exercise id="id15129395">
+        <problem id="oo-id8237158">
+          <para id="id11322276">Double the number 7 and take away 3 from the answer. What will the number now be ?(A)  11  (B) 12  (C) 13</para>
+        </problem>
+      </exercise>
+      <exercise id="id6360838">
+        <problem id="oo-id12945700">
+          <para id="id6975646">You are given 3 plastic number digits 2; 4 and 5. How many different 3 digit numbers can be made ?(A) 3  (B) 6  (C) 9</para>
+        </problem>
+      </exercise>
+      <exercise id="id11250200">
+        <problem id="oo-id6338740">
+          <para id="id12045202">After giving ½ the number of health biscuits to her friends Patricia has 14 left. How many biscuits did Patricia start off with ? (A) 26  (B) 28  (C) 30</para>
+        </problem>
+      </exercise>
+      <exercise id="id11085670">
+        <problem id="oo-id11796873">
+          <para id="id12978564">Sipho had to take 5ml. of medicine in the morning, midday and in the afternoon (3 times per day). How much of medicine did Sipho take in 5 days ?(A) 75ml  (B) 60ml   (C) 45ml</para>
+        </problem>
+      </exercise>
+      <exercise id="id6846549">
+        <problem id="oo-id4414470">
+          <para id="id5624873">Lesley saw the time on the clock. What time will it be in 10 hours time ? (A) 1 o’ clock (B) 2 o’ clock  (C) 3 o’ clock<figure id="id8018235"><media id="id8018235_media" alt=""><image mime-type="image/png" src="../../media/graphics4-20e4.png" id="id8018235__onlineimage" height="218" width="222"/></media></figure></para>
+        </problem>
+      </exercise>
+      <exercise id="id14016007">
+        <problem id="oo-id12607691">
+          <para id="id14016009">If 296 + 194 = 490 then what is the answer to 296 + 174?(A) 480  (B) 470  (C) 460 </para>
+        </problem>
+      </exercise>
+      <exercise id="id11941868">
+        <problem id="oo-id10311671">
+          <para id="id6334254">Pam makes 1 paper jet every 5 minutes. Tweedie makes 2 paper jets every 15 minutes. They continue to work like this. If they made 60 paper jets then how many paper Jets did Tweedie make ?(A) 20  (B) 30  (C) 40</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>
